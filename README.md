@@ -5,3 +5,5 @@
 ## studied chapter 4
 
 ## studied chapter 5
+
+## studied chapter 6
